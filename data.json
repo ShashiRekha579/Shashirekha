@@ -1,0 +1,31 @@
+{
+  "basics":{
+    "photo"   :"nazriya.jpg",
+    "name"    :"Shashirekha",
+    "email":"send4shashi@gmail.com",
+    "mobile"  :"7032933717"
+  },
+  "education":[
+    {
+      "course":"B.Tech(Computer science and engineering)",
+      "college":[
+        "G.Pullaiah College of Engineering and Technology",
+        "2015-2019",
+      "78"]
+    },
+    {
+      "course" : "Intermediate",
+      "college" :[
+        "Chaitanya College",
+        "2012-2014",
+      "93"]
+    },
+    {
+      "course" : "SSC",
+      "college" :[
+        "Sri Lakshmi High School",
+        "2012",
+      "93"]
+    }
+  ]
+}
