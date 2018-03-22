@@ -9,32 +9,35 @@
   border: 2px solid blue;
   margin: 5px 3px 1px 10px;
   padding: 5px 10px 5px 10px;
-  background-color: #999;
+  background-color:  #d6adeb
+;
 }
 .left img{
-  width: 75px;
+  width: 175px;
   border-radius: 50%;
   border: 3px solid blue;
   box-shadow: 3px 2px 5px black;
+  padding: 8
+  px;
 }
 .right{
   width: 70%;
   border: 2px solid blue;
   margin: 3px 5px 3px 5px;
   padding: 5px 10px 5px 10px;
-  background-color: #999;
+  background-color:  #d6adeb;
 }
 #name{
-  color: cyan;
+  color:  #3d1452;
 }
 h1{
-  color: cyan;
+  color:  #3d1452;
 }
 h2{
-  color: cyan;
+  color:  #3d1452;
 }
 h2.hover{
-  color: red;
+  color: white;
 }
 @media only screen and (max-width:480px)
 {

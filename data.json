@@ -27,5 +27,19 @@
         "2012",
       "93"]
     }
-  ]
+  ],
+  "skills": [
+  {
+    "name":"web technology",
+    "value":"HTML,CSS"
+  },
+  {
+    "name":"Operating Systems",
+    "value":"Linux,Windows"
+  },
+  {
+    "name":"Programming Languages",
+    "value":"C,C++,java"
+  }
+]
 }
